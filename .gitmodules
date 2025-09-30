@@ -4,3 +4,6 @@
 [submodule "robot_lab"]
 	path = robot_lab
 	url = https://github.com/fan-ziqi/robot_lab.git
+[submodule "standalone_particle_env"]
+	path = standalone_particle_env
+	url = https://github.com/GUT-Aachen/standalone_particle_env.git
